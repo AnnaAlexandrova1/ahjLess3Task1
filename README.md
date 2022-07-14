@@ -1,5 +1,5 @@
 AHJ-1.3
-[![Build status](https://ci.appveyor.com/api/projects/status/r7dodqm51eqffl80?svg=true)](https://ci.appveyor.com/project/AnnaAlexandrova1/ahjless3task1)
+[![Build status](https://ci.appveyor.com/api/projects/status/j2irci1dq90j8f1l?svg=true)](https://ci.appveyor.com/project/AnnaAlexandrova1/ahjless3task1)
 
 https://annaalexandrova1.github.io/ahj-less2-task1/
 
