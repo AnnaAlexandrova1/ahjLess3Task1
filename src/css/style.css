@@ -27,3 +27,13 @@ body {
 	background-position: center;
   background-color: blue;
 }
+.countInfo {
+  width: 30vmin;
+	border: 1px solid black;
+	margin:  15px auto;
+	background-color: #fff;
+}
+
+.hammer {
+	cursor: url('../img/hammer.png'), auto;
+}

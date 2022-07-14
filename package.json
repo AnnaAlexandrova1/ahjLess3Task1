@@ -45,6 +45,7 @@
     },
     "dependencies": {
         "babel": "^6.23.0",
-        "core-js": "^3.6.5"
+        "core-js": "^3.6.5",
+        "eslint-plugin-prettier": "^4.2.1"
     }
 }
