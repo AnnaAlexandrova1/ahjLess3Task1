@@ -1,0 +1,29 @@
+body {
+	background-color: darkgrey;
+}
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  border: 2px solid black;
+  width: 70vmin;
+  height: 70vmin;
+  margin: 0 auto;
+}
+
+.cell{
+ width: 25%;
+ height: 25%;
+ box-sizing: border-box;
+ background-color: azure;
+ border: 1px solid black;
+}
+
+.goblin {
+	background-image: url('../img/goblin.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+  background-color: blue;
+}
