@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/rwn63h609okn1lh0?svg=true)](https://ci.appveyor.com/project/AnnaAlexandrova1/ahj-less3)
+AHJ-1.3
+[![Build status](https://ci.appveyor.com/api/projects/status/j2irci1dq90j8f1l?svg=true)](https://ci.appveyor.com/project/AnnaAlexandrova1/ahjless3task1)
 
 Перемещение элемента Легенда Вы решили развлечься и реализовать некое подобие игры, где гномы (или другие существа), выскакивают из "отверстий" и по ним нужно бить молотком:
 
