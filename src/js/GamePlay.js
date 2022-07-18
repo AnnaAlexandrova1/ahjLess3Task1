@@ -57,12 +57,12 @@ export default class GamePlay {
     }
 
     if (this.dead.textContent >= 5) {
-      alert('Вы Выиграли');
+      // alert('Вы Выиграли');
       this.resetStore();
     }
 
     if (this.lost.textContent >= 5) {
-      alert('Вы проиграли');
+      // alert('Вы проиграли');
       this.resetStore();
     }
 
